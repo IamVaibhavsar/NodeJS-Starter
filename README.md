@@ -6,6 +6,8 @@ Just the right number of packages to get started with the most common nodejs pro
 1. Express 
 2. MongoDB 
 3. JWT Authentication
+
+
 This saves about 20 minutes starting time to install and check the right set of dependencies that work well together :)
 
 - Also has nodemon for working in development.
