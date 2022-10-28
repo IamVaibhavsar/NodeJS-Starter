@@ -1,4 +1,4 @@
-# nodejs-starter-project
+# NodeJS-Starter-Project
 
 Author - Vaibhav Bhavsar
 
